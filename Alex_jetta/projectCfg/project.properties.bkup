@@ -1,0 +1,41 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Wed Sep 26 08:14:51 PDT 2018
+#Wed Sep 26 08:14:51 PDT 2018
+2DTable_ignitionTbl1_tableInitialDir=/Users/araddas/Desktop
+sensorCalCalibrate\ MAP/Baro_height=352
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/cu.usbserial
+commPort=/dev/cu.usbserial
+ignitionTbl1Ignition\ Table\ 1\ (Spark\ Advance)_width=522
+veTable1TblFuel\ VE\ Table\ 1_Y=242
+ignitionTbl1Ignition\ Table\ 1\ (Spark\ Advance)_height=339
+veTable1TblFuel\ VE\ Table\ 1_X=381
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingBaud\ Rate=115200
+canId=0
+nestedwarmup_curveWarmup\ Enrichment\ (WUE)\ -\ Percent\ Multiplier_width=612
+sensorCalCalibrate\ MAP/Baro_width=380
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+projectDescription=
+nestedwarmup_curveWarmup\ Enrichment\ (WUE)\ -\ Percent\ Multiplier_height=514
+CommSettingCom\ Port=/dev/cu.usbserial
+veTable1TblFuel\ VE\ Table\ 1_width=678
+CommSettingaraddas-ltm4.internal.salesforce.comCommDriver.controllerInterfaceId=RS232 Serial Interface
+baudRate=115200
+CommSettingaraddas-ltm4.internal.salesforce.comCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+nestedwarmup_curveWarmup\ Enrichment\ (WUE)\ -\ Percent\ Multiplier_Y=187
+nestedwarmup_curveWarmup\ Enrichment\ (WUE)\ -\ Percent\ Multiplier_X=414
+ecuConfigFile=mainController.ini
+CommSettingaraddas-ltm4.internal.salesforce.comCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/cu.usbserial
+firmwareDescription=MS2/Extra 3.4.2 release  20160421 11\:50BST(c)KC/JSM/JB   uSM
+sensorCalCalibrate\ MAP/Baro_Y=247
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+sensorCalCalibrate\ MAP/Baro_X=551
+veTable1TblFuel\ VE\ Table\ 1_height=403
+ignitionTbl1Ignition\ Table\ 1\ (Spark\ Advance)_Y=98
+ignitionTbl1Ignition\ Table\ 1\ (Spark\ Advance)_X=53
+selectedComDriver=Multi Interface MegaSquirt Driver
+CommSettingaraddas-ltm4.internal.salesforce.comCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+projectName=Alex_jetta
+ecuSettings=CAN_COMMANDS|EGTFULL_OFF|FAHRENHEIT|OUTMSG_EDITING_OFF|PORT_STATUS|
+dashBoardFile=/dashboard//dashboard.dash
